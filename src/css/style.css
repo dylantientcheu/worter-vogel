@@ -1,0 +1,24 @@
+.top-wave-bg {
+  height: 4rem;
+  width: 100%;
+}
+
+.bottom-wave-bg {
+  position: absolute;
+  bottom: 0;
+  height: 5rem;
+  width: 100%;
+  bottom: 0;
+}
+
+.definition {
+  overflow-wrap: break-word;
+}
+
+.word {
+  overflow-wrap: break-word;
+}
+
+* {
+  transition: all 0.3s;
+}
