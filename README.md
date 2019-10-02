@@ -1,35 +1,64 @@
-# Create React App Tailwind starter
+<div align="center">
+  <a href="https://dylantientcheu.com"><img src="public/logo.png" alt="Dylan Tientcheu" height="128"></a>
+  <br>
+  <h1><a href="https://v-worter.dylan-tientcheu.now.sh/">Wörter Vogel</a></h1>
+  <p>
+    API request builder - Helps you create your requests faster, saving you precious time on your development. <a href="https://postwoman.launchaco.com">Subscribe for updates</a>
+  </p>
+<p>
 
-[![License: MIT](https://img.shields.io/github/license/impulse/cra-tailwind-starter.svg)](https://opensource.org/licenses/MIT)
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/impulse/cra-tailwind-starter.svg">
+[![GitHub release](https://img.shields.io/github/release/blurdylan/worter-vogel/all.svg)](https://github.com/blurdylan/worter-vogel/releases/latest) [![repo size](https://img.shields.io/github/repo-size/blurdylan/worter-vogel.svg)](https://github.com/blurdylan/worter-vogel/archive/master.zip) [![license](https://img.shields.io/github/license/blurdylan/worter-vogel.svg)](https://github.com/blurdylan/worter-vogel/blob/master/LICENSE) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/blurdylan/worter-vogel/issues) [![Website](https://img.shields.io/website-up-down-green-red/https/shields.io.svg?label=website)](https://postwoman.io) [![Buy me a coffee](https://img.shields.io/badge/$-BuyMeACoffee-orange.svg)](https://www.buymeacoffee.com/dylantientcheu)
 
-## About
+</p>
+  <sub>Built with ❤︎ by
+    <a href="https://github.com/blurdylan">blurdylan</a>
+  </sub>
+</div>
 
-Tailwind starter project based on create-react-app
+---
 
-## Available Scripts
+**Demo: \_[https://v-worter.dylan-tientcheu.now.sh/](https://v-worter.dylan-tientcheu.now.sh/)**
 
-In the project directory, you can run:
+<div align="center">
+  <br>
+  <img src="static/desktop-screen.png" alt="postwoman" width="100%">
+  <br>
+</div>
 
-### `dev`
+### Features :sparkles:
 
-Watches and rebuilds css changes and starts dev server<br>
+🎈: **Lightweight**: Crafted with minimalistic UI design
 
-### `npm start`
+⚡: **PWA**: Progressive web app stack
 
-Builds css once and starts react-scripts.<br>
+- Fast, light, clean, minimal & responsive
 
-### `npm build`
+## Demo 🚀
 
-Builds production ready project.<br>
+[Worter Vogel](https://v-worter.dylan-tientcheu.now.sh/)
 
-### `build:css`
+## Usage 💡
 
-Builds css once.<br>
+1. Search a word and press enter
+2. Tap the shuffle button to get a random word
 
-### `watch:css`
+You're done!
 
-Watches and rebuilds css.<br>
+## Built with 🔧
+
+- [React](http://reactjs.org/) - Learning purpose.
+- JSX
+- CSS
+- JavaScript
+- [Wiktionary API](https://de.wiktionary.org/) - To get the words and information.
+- [now](https://zeit.co/) - Deploys like a boss.
+
+## Developing 👷
+
+1. [Clone this repo](https://help.github.com/en/articles/cloning-a-repository) with git.
+1. Install dependencies by running `npm install` within the directory that you cloned (probably `worter-vogel`).
+1. Start the development server with `npm run dev`.
+1. Open development site by going to [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Contributing
 
