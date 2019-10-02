@@ -3,11 +3,14 @@
   <br>
   <h1><a href="https://v-worter.dylan-tientcheu.now.sh/">Wörter Vogel</a></h1>
   <p>
-    API request builder - Helps you create your requests faster, saving you precious time on your development. <a href="https://postwoman.launchaco.com">Subscribe for updates</a>
+   A minimalistic open-source German dictionary. Able to give you minimal words description with articles, genre, phonetics and pronunciation syllables.
+  </p>
+  <p>
+   Ein minimales Open-Source-Deutsches Wörterbuch. Es ist in der Lage, Ihnen eine safte Wortbeschreibung mit Artikeln, Genre, Phonetik und Aussprache Silben zu geben.
   </p>
 <p>
 
-[![GitHub release](https://img.shields.io/github/release/blurdylan/worter-vogel/all.svg)](https://github.com/blurdylan/worter-vogel/releases/latest) [![repo size](https://img.shields.io/github/repo-size/blurdylan/worter-vogel.svg)](https://github.com/blurdylan/worter-vogel/archive/master.zip) [![license](https://img.shields.io/github/license/blurdylan/worter-vogel.svg)](https://github.com/blurdylan/worter-vogel/blob/master/LICENSE) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/blurdylan/worter-vogel/issues) [![Website](https://img.shields.io/website-up-down-green-red/https/shields.io.svg?label=website)](https://postwoman.io) [![Buy me a coffee](https://img.shields.io/badge/$-BuyMeACoffee-orange.svg)](https://www.buymeacoffee.com/dylantientcheu)
+[![GitHub release](https://img.shields.io/github/release/blurdylan/worter-vogel/all.svg)](https://github.com/blurdylan/worter-vogel/releases/latest) [![repo size](https://img.shields.io/github/repo-size/blurdylan/worter-vogel.svg)](https://github.com/blurdylan/worter-vogel/archive/master.zip) [![license](https://img.shields.io/github/license/blurdylan/worter-vogel.svg)](https://github.com/blurdylan/worter-vogel/blob/master/LICENSE) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/blurdylan/worter-vogel/issues) [![Website](https://img.shields.io/website-up-down-green-red/https/shields.io.svg?label=website)](https://v-worter.dylan-tientcheu.now.sh/) [![Buy me a coffee](https://img.shields.io/badge/$-BuyMeACoffee-orange.svg)](https://www.buymeacoffee.com/dylantientcheu)
 
 </p>
   <sub>Built with ❤︎ by
@@ -17,7 +20,7 @@
 
 ---
 
-**Demo: \_[https://v-worter.dylan-tientcheu.now.sh/](https://v-worter.dylan-tientcheu.now.sh/)**
+**Demo: [https://v-worter.dylan-tientcheu.now.sh/](https://v-worter.dylan-tientcheu.now.sh/)**
 
 <div align="center">
   <br>
